@@ -40,4 +40,4 @@ src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-bad
 
 <a href="https://github.com/mrgts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgts&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://app.daily.dev/MrGTS"><img src="https://api.daily.dev/devcards/5355ea69c8b44e69ab7dab362da3b211.png?r=cvq" width="400" alt="MrGTS's Dev Card"/></a>
+
