@@ -1,3 +1,4 @@
+[![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)
 Hi 👋 My name is Oscar Palacios A.K.A MrGTS
 ===========================================
 
@@ -40,4 +41,4 @@ src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-bad
 
 <a href="https://github.com/mrgts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgts&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)
+
