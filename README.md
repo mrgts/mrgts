@@ -9,8 +9,8 @@ I'm probably creating something right now.
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  “Knock, knock … Who’s there? … \*very long pause\* … Java.”
 
-<a href="https://www.twitter.com/realMrGTS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/realMrGTS?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
+<a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
 /></a>
 
 ### Skills
