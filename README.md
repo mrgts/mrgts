@@ -8,7 +8,7 @@ I'm probably creating something right now.
 * ✉️  You can contact me at [oscarfelipe2506@gmail.com](mailto:oscarfelipe2506@gmail.com)
 * 🧠  I'm learning Buffalo (Go web eco-system)
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  “Knock, knock … Who’s there? … \*very long pause\* … Java.”
+
 
 <a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
