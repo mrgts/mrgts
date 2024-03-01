@@ -10,9 +10,9 @@ I'm probably creating something right now.
 * 🤝  I'm open to collaborating on Interesting projects
 
 
-<a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img
+<!---<a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
-/></a>
+/></a>-->
 
 ### Skills
 
