@@ -1,5 +1,5 @@
 
-
+[![An image of @mrgts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrgts)](https://holopin.io/@mrgts)
 [![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)
 <!---Hi 👋 My name is Oscar Palacios A.K.A MrGTS
 ==========================================
