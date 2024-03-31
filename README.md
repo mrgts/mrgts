@@ -1,13 +1,13 @@
 [![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)
-Hi 👋 My name is Oscar Palacios A.K.A MrGTS
+<!---Hi 👋 My name is Oscar Palacios A.K.A MrGTS
 ===========================================
 
 I'm probably creating something right now.
 
-* 🌍  I'm based in 🇨🇴
+* 🌍  I'm based in 🇨🇴-->
 * ✉️  You can contact me at [✉️](mailto:oscarfelipe2506@gmail.com)
-* 🧠  I'm learning Buffalo (Go web eco-system)
-* 🤝  I'm open to collaborating on Interesting projects
+<!--* 🧠  I'm learning Buffalo (Go web eco-system)
+* 🤝  I'm open to collaborating on Interesting projects-->
 
 
 <!---<a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img
