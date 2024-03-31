@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=500&color=614DF4&center=true&random=false&width=435&lines=Oscar+Palacios;Mr+GTS)](https://git.io/typing-svg)
+
+
 [![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)
 <!---Hi 👋 My name is Oscar Palacios A.K.A MrGTS
 ===========================================
