@@ -15,12 +15,7 @@ I'm probably creating something right now.
 * 🤝  I'm open to collaborating on Interesting projects
   
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @mrgts" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<!---[![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)-->
+[![Dashboard stats of @mrgts](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=11093068)
 
 
 
