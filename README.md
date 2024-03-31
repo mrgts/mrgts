@@ -4,8 +4,6 @@
 &nbsp;
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Hi 👋 My name is Oscar Palacios A.K.A MrGTS**
 
-==========================================
-
 
 I'm probably creating something right now.
 
