@@ -1,22 +1,27 @@
 
 [![An image of @mrgts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrgts)](https://holopin.io/@mrgts)
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=11093068" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @mrgts" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<!---[![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)-->
-<!---Hi 👋 My name is Oscar Palacios A.K.A MrGTS
+&nbsp;
+
+Hi 👋 My name is Oscar Palacios A.K.A MrGTS
 ==========================================
 
 
 I'm probably creating something right now.
 
 * 🌍  I'm based in 🇨🇴-->
-<!--* ✉️  You can contact me at [✉️](mailto:oscarfelipe2506@gmail.com)
+* ✉️  You can contact me at [✉️](mailto:oscarfelipe2506@gmail.com)
 * 🧠  I'm learning Buffalo (Go web eco-system)
-* 🤝  I'm open to collaborating on Interesting projects-->
+* 🤝  I'm open to collaborating on Interesting projects
+  
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mrgts" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<!---[![@mrgts's Holopin board](https://holopin.io/api/user/board?user=mrgts)](https://holopin.io/@mrgts)-->
+
 
 
 <!---<a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img
