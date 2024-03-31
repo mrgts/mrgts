@@ -5,8 +5,8 @@
 I'm probably creating something right now.
 
 * 🌍  I'm based in 🇨🇴-->
-* ✉️  You can contact me at [✉️](mailto:oscarfelipe2506@gmail.com)
-<!--* 🧠  I'm learning Buffalo (Go web eco-system)
+<!--* ✉️  You can contact me at [✉️](mailto:oscarfelipe2506@gmail.com)
+* 🧠  I'm learning Buffalo (Go web eco-system)
 * 🤝  I'm open to collaborating on Interesting projects-->
 
 
