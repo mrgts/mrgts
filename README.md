@@ -14,7 +14,7 @@ I'm probably creating something right now.
 src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
 /></a>-->
 
-### Skills
+<!---### Skills
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-bad
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
+-->
 
 ### Socials
 
@@ -37,9 +37,9 @@ src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-bad
  
 <!---<a href="http://www.github.com/mrgts"><img src="https://github-readme-stats.vercel.app/api?username=mrgts&show_icons=true&hide=stars,prs,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="mrgts's GitHub stats" /></a> -->
 
-<a href="http://www.github.com/mrgts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgts&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!---<a href="http://www.github.com/mrgts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgts&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!---<a href="https://github.com/mrgts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgts&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
 
-<a href="https://app.daily.dev/mrgts"><img src="https://api.daily.dev/devcards/v2/4KeualmHVbyVr3AV4cvuK.png?type=wide&r=csj" width="652" alt="MrGTS's Dev Card"/></a>
+<!---<a href="https://app.daily.dev/mrgts"><img src="https://api.daily.dev/devcards/v2/4KeualmHVbyVr3AV4cvuK.png?type=wide&r=csj" width="652" alt="MrGTS's Dev Card"/></a>-->
