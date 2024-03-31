@@ -2,8 +2,8 @@
 [![An image of @mrgts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrgts)](https://holopin.io/@mrgts)
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=11093068" target="_blank" style="display: block" align="center">
 &nbsp;
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Hi 👋 My name is Oscar Palacios A.K.A MrGTS**
 
-Hi 👋 My name is Oscar Palacios A.K.A MrGTS
 ==========================================
 
 
