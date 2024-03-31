@@ -7,10 +7,7 @@
 
 I'm probably creating something right now.
 
-* 🌍  I'm based in 🇨🇴
-* ✉️  You can contact me at [✉️](mailto:oscarfelipe2506@gmail.com)
-* 🧠  I'm learning Buffalo (Go web eco-system)
-* 🤝  I'm open to collaborating on Interesting projects
+* I'm learning  <picture><img src = "https://github.com/mrgts/mrgts/blob/main/img/go.gif" width = 60px></picture> 
   
   &nbsp;
 [![Dashboard stats of @mrgts](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11093068&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=11093068)
