@@ -37,8 +37,7 @@ src="https://img.shields.io/twitter/follow/Mr_GT5?logo=twitter&style=for-the-bad
  <a href="https://www.linkedin.com/in/oscar-p-2a36b790" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  <a href="http://www.medium.com/MRGTS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mr_GT5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>-->
  
-### Now playing 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3174swsdwducssyi6zxg4pn5bthm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=4860d5&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3174swsdwducssyi6zxg4pn5bthm&redirect=true)
+
 <!---### Badges
 
 <b>My GitHub Stats</b>-->
